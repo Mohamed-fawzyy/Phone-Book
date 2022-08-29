@@ -1,0 +1,5 @@
+﻿  Source.cpp
+\\vmware-host\Shared Folders\Desktop\Codes\Final Exam\PhoneBook\search\Source.cpp(52,18): warning C4018: '<': signed/unsigned mismatch
+\\vmware-host\Shared Folders\Desktop\Codes\Final Exam\PhoneBook\search\Source.cpp(140,18): warning C4018: '<': signed/unsigned mismatch
+\\vmware-host\Shared Folders\Desktop\Codes\Final Exam\PhoneBook\search\Source.cpp(253,21): warning C4101: 'search': unreferenced local variable
+  search.vcxproj -> \\vmware-host\Shared Folders\Desktop\Codes\Final Exam\PhoneBook\Debug\search.exe
